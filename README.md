@@ -22,7 +22,7 @@ The following requirements also need to be implemented:
 
 * Code fully integrated into a Version Control System
 
-### **Approach***
+### **Approach**
 
 I have decided to create a simple forum engine application where users will be able to do the following:
 

@@ -3,7 +3,7 @@
 ## **Contents**
 
 * ### [Brief](#Brief)
-* ### [Scope](#Scope)
+  * ### [Scope](#Scope)
 * ### [Approach](#Approach)
 
 ## **Brief**

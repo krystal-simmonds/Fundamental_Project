@@ -4,7 +4,7 @@
 
 * ### [Brief](#Brief)
   * ### [Scope](#Scope)
-* ### [Approach](#Approach)
+  * ### [Approach](#Approach)
 
 ## **Brief**
 

@@ -1,4 +1,4 @@
-# **What Are Those? Trainer Forum App**
+# **What Are Thooose? Trainer Blog**
 
 ## **Contents**
 
@@ -24,18 +24,19 @@ The following requirements also need to be implemented:
 
 ### **Approach**
 
-I have decided to create a simple forum engine application where users will be able to do the following:
+I have decided to create a simple blog application where users will be able to do the following:
 
-*Create a user account that stores:
+* Create a user account that stores:
 
- *First name and Last name
- *USername
- *Email
- *Password
-*Upload a photo of a pair of trainers they have seen to get more information on the pair and discussion. Posts will have the following information
- *Title
- *Author
- *Timestamp
- *Tag
- *Comment on post
- * View, update or delete their account
+  * First name and Last name
+  * Username
+  * Email
+  * Password
+* Create posts that will include:
+  * Post title
+  * Post author
+  * Timestamp
+* Users will also be allowed to:
+  * Comment on posts
+  * View, update or delete posts/comments
+  * View, update or delete their profile/account

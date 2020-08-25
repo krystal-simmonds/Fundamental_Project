@@ -1,4 +1,4 @@
-# **What Are Thooose? Trainer Blog**
+# **What Are Thooose? Trainer Inventory**
 
 ## **Contents**
 
@@ -32,11 +32,11 @@ I have decided to create a simple blog application where users will be able to d
   * Username
   * Email
   * Password
-* Create posts that will include:
-  * Post title
-  * Post author
-  * Timestamp
+* Add entries that will include:
+  * Shoe name
+  * Shoe size
+  * Brand
+  * Colour
+  * Shoe Silhouette
 * Users will also be allowed to:
-  * Comment on posts
-  * View, update or delete posts/comments
-  * View, update or delete their profile/account
+  * View, edit or delete entries

@@ -37,6 +37,5 @@ I have decided to create a simple blog application where users will be able to d
   * Shoe size
   * Brand
   * Colour
-  * Shoe Silhouette
 * Users will also be allowed to:
   * View, edit or delete entries
